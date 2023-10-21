@@ -4,7 +4,7 @@
     box-sizing: border-box;
     -webkit-font-smoothing: antialiased;
     font-family: 'Inter', sans-serif;
-    color:var(--white);
+    color: $gray-0;
 }
 
 img{
@@ -28,5 +28,5 @@ ul{
 
 html{
     font-size: 62.5%;
-    background-color: var(--black);
+    background-color: $gray-900;
 }
